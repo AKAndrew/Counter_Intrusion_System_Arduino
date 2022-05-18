@@ -1,0 +1,24 @@
+Download will begin in 3 seconds.
+	DON'T CLOSE THIS WINDOW!
+
+##### DOWNLOAD BEGIN #####
+
+21/2/2022 19:45:40 System State changed to Starting
+21/2/2022 19:45:42 System State changed to Armed
+21/2/2022 19:45:44 System State changed manually to Disarmed
+21/2/2022 19:45:45 System State changed to Starting
+21/2/2022 19:45:47 System State changed to Armed
+21/2/2022 19:45:50 System State changed manually to Disarmed
+##### END OF DOWNLOAD #####
+Download will begin in 3 seconds.
+	DON'T CLOSE THIS WINDOW!
+
+##### DOWNLOAD BEGIN #####
+
+21/2/2022 19:45:40 System State changed to Starting
+21/2/2022 19:45:42 System State changed to Armed
+21/2/2022 19:45:44 System State changed manually to Disarmed
+21/2/2022 19:45:45 System State changed to Starting
+21/2/2022 19:45:47 System State changed to Armed
+21/2/2022 19:45:50 System State changed manually to Disarmed
+##### END OF DOWNLOAD #####
